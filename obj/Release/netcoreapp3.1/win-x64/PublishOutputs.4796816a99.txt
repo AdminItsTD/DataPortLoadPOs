@@ -1,0 +1,2 @@
+C:\Users\Programacion 5\source\repos\Dataport_TCP\bin\Release\netcoreapp3.1\publish\Dataport_TCP.pdb
+C:\Users\Programacion 5\source\repos\Dataport_TCP\bin\Release\netcoreapp3.1\publish\Dataport_TCP.exe

@@ -1,0 +1,75 @@
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.exe
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.deps.json
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.runtimeconfig.json
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.runtimeconfig.dev.json
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.pdb
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\ZstdNet.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Spectre.Console.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.csproj.AssemblyReference.cache
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadSalesOrdes.Properties.Resources.resources
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.csproj.GenerateResource.cache
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.AssemblyInfoInputs.cache
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.AssemblyInfo.cs
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.csproj.CoreCompileInputs.cache
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.csproj.CopyComplete
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.dll
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.pdb
+C:\Users\Programacion 5\source\repos\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.genruntimeconfig.cache
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.exe
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.deps.json
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.runtimeconfig.json
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.runtimeconfig.dev.json
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.pdb
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\ZstdNet.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\Spectre.Console.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.csproj.AssemblyReference.cache
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadSalesOrdes.Properties.Resources.resources
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.csproj.GenerateResource.cache
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.AssemblyInfoInputs.cache
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.AssemblyInfo.cs
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.csproj.CoreCompileInputs.cache
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.csproj.CopyComplete
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.dll
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.pdb
+C:\Users\GAPRE01\PycharmProjects\TCP\Desarrollo_C#\POs\Dataport_TCP_PurchaseOrders\obj\Release\netcoreapp3.1\Dataport_TCP_LoadPurchaseOrders.genruntimeconfig.cache

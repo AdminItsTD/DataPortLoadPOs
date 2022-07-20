@@ -1,0 +1,2 @@
+C:\Users\Programacion 5\Documents\DataPort_CargaPO\Dataport_TCP_LoadPurchaseOrders.pdb
+C:\Users\Programacion 5\Documents\DataPort_CargaPO\Dataport_TCP_LoadPurchaseOrders.exe
